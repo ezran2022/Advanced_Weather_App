@@ -13,7 +13,9 @@ here we try to see the inforamtion of Kigali
 
 ![image](https://user-images.githubusercontent.com/103323625/185913361-b96719fc-9849-4ef9-b07b-ccc44636f76d.png)
 
-
+### Link
+https://bucolic-malabi-bcf19e.netlify.app/
+### CODE
 ``` javascript
 
 // Get DOM Elements
